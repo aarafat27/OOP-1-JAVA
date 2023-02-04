@@ -1,4 +1,4 @@
-# OOP-1-JAVA-
+# Object Oriented Programming
 university course
 
-# A simple calculator using JAVA
+# A simple calculator using JAVA.
